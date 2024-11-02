@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
       <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"/>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16761287388"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16760813415"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
         
-              gtag('config', 'AW-16761287388');
+              gtag('config', 'AW-16760813415');
             `,
           }}
         />
